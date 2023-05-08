@@ -115,3 +115,4 @@ for (int i = 1; i <= 5; i++)
 Console.WriteLine("El pibe que más gastó fue " + elNombreDelFlacoQueMasGasto);
 Console.WriteLine(" Y el total que gastó fue " + elMayorGasto);
 
+
