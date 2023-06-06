@@ -1,0 +1,11 @@
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\bin\Debug\Ejercicio polimorfismo.exe.config
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\bin\Debug\Ejercicio polimorfismo.exe
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\bin\Debug\Ejercicio polimorfismo.pdb
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\bin\Debug\ClassLibrary1.dll
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\bin\Debug\ClassLibrary1.pdb
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\obj\Debug\Ejercicio polimorfismo.csproj.AssemblyReference.cache
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\obj\Debug\Ejercicio polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\obj\Debug\Ejercicio polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\obj\Debug\Ejercicio polimorfismo.csproj.CopyComplete
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\obj\Debug\Ejercicio polimorfismo.exe
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Ejercicio polimorfismo\obj\Debug\Ejercicio polimorfismo.pdb

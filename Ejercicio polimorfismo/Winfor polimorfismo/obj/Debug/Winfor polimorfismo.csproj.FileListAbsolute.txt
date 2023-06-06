@@ -1,0 +1,6 @@
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Winfor polimorfismo\obj\Debug\Winfor polimorfismo.csproj.AssemblyReference.cache
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Winfor polimorfismo\obj\Debug\Winfor polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Winfor polimorfismo\obj\Debug\Winfor_polimorfismo.Form1.resources
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Winfor polimorfismo\obj\Debug\Winfor_polimorfismo.Properties.Resources.resources
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Winfor polimorfismo\obj\Debug\Winfor polimorfismo.csproj.GenerateResource.cache
+C:\Users\marim\source\repos\Ejercicio polimorfismo\Winfor polimorfismo\obj\Debug\Winfor polimorfismo.csproj.CoreCompileInputs.cache
